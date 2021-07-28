@@ -38,11 +38,11 @@
 
 .MainMenu-link{
     color: red;
-    font-size: 1.25em;
+    font-size: 2em;
     line-height: 60px;
     margin: 0 1.25em;
     text-decoration: none;
-    text-shadow: 10px 10px 10px #0FDFFF;
+    text-shadow: 10px 10px 10px white;
 }
 
 /* Header */
