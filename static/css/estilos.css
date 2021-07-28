@@ -37,12 +37,12 @@
 }
 
 .MainMenu-link{
-    color: #00DBFF;
+    color: red;
     font-size: 1.25em;
     line-height: 60px;
     margin: 0 1.25em;
     text-decoration: none;
-    text-shadow: 2px 2px 2px #0FDFFF;
+    text-shadow: 10px 10px 10px #0FDFFF;
 }
 
 /* Header */
