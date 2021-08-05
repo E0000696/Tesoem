@@ -47,7 +47,7 @@
 
 /* Header */
 .Header{
-    background-image: url('../images/radio.jpg');
+    background-color: blueviolet;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -140,7 +140,7 @@ margin: 1em 1px;
 /* Footer */
 
 .Footer{
-    background-image: url('../images/footer.jpg');
+    background-color: blueviolet;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
